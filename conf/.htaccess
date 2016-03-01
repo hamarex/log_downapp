@@ -1,0 +1,4 @@
+Options	-Indexes
+<Files server.conf>
+deny from all
+</Files>
